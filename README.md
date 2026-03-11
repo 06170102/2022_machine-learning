@@ -24,7 +24,7 @@ This repository contains coursework assignments covering fundamental concepts in
 - feature importance
 
 
-# Technologies Used
+## Technologies Used
 
 Language
 - Python
@@ -36,7 +36,7 @@ packages
 - matplotlib
 
 
-# Repository Structure and topic covered
+## Repository Structure and topic covered
 
 HW1 – linear regression
 HW2 – KNN
