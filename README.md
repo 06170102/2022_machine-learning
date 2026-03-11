@@ -7,21 +7,21 @@
 This repository contains coursework assignments covering fundamental concepts in machine learning evaluation and data analysis.
 ---
 
-# Topics Covered
+## Topics Covered
 
-## supervised models
+- supervised models
 
-## unsupervised models
+- unsupervised models
 
-## Model Evaluation Metrics
+- Model Evaluation Metrics
 
-## train test split
+- train test split
 
-## data preprocessing
+- data preprocessing
 
-## imbalanced data
+- imbalanced data
 
-## feature importance
+- feature importance
 
 
 # Technologies Used
