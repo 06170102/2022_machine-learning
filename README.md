@@ -5,71 +5,50 @@
 # Machine Learning Fundamentals Coursework
 
 This repository contains coursework assignments covering fundamental concepts in machine learning evaluation and data analysis.
-
-The assignments were developed using Jupyter Notebook and exported as HTML files.
-
 ---
 
 # Topics Covered
 
+## supervised models
+
+## unsupervised models
+
 ## Model Evaluation Metrics
 
-The coursework includes theoretical explanations and calculations of common classification metrics:
+## train test split
 
-- Accuracy
-- Precision
-- Recall (Sensitivity)
-- False Positive Rate
-- F1 Score
-- ROC Curve
-- AUC (Area Under Curve)
+## data preprocessing
 
-These metrics are essential for evaluating the performance of classification models and understanding prediction trade-offs.
+## imbalanced data
 
----
+## feature importance
+
 
 # Technologies Used
 
 Language
 - Python
 
-Tools
-- Jupyter Notebook
+packages
+- Scikit learn
+- numpy
+- pandas
+- matplotlib
 
-Concepts
-- Machine Learning evaluation metrics
-- Classification analysis
-- ROC curve interpretation
-- Model performance assessment
 
----
+# Repository Structure and topic covered
 
-# Repository Structure
-
-HW1 – Data analysis assignment  
-HW2 – Data processing exercise  
-HW3 – Classification metrics analysis  
-HW4 – Data analysis notebook  
-HW5 – Statistical analysis  
-HW6 – Model evaluation practice  
-HW7 – Analytical exercise  
-HW8 – Data analysis notebook  
-HW9 – Classification analysis  
-HW12 – Machine learning concepts  
-HW13 – Final coursework
+HW1 – linear regression
+HW2 – KNN
+HW3 – evaluation metrics  
+HW4 – dummy variable
+HW5 – feature importance
+HW6 – SVM / logistic   
+HW7 – random forest
+HW8 – parameter opotimization(gridsearch)
+HW9 – PCA
+HW10 -Kmean
+HW12 – NLP  
+HW13 – imbalanced data (smote/upsampling/downsampling)
 
 ---
-
-# Key Skills Demonstrated
-
-- Understanding machine learning evaluation metrics
-- Interpreting classification model performance
-- Applying statistical formulas for model evaluation
-- Analytical reasoning in predictive modeling
-
----
-
-# Author
-
-Student ID: 310700021  
-Name: 張子軒
