@@ -4,7 +4,7 @@
 
 # Machine Learning Fundamentals Coursework
 
-This repository contains coursework assignments covering fundamental concepts in machine learning evaluation and data analysis.
+This repository contains coursework assignments covering fundamental concepts in machine learning and data analysis.
 ---
 
 ## Topics Covered
